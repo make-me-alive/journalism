@@ -33,7 +33,7 @@ body
 
   }
 
-  /*#button1:hover,#button2:hover {background-color:thistle}*/
+
 
 #button1:active,#button2:active {
   box-shadow: 0 5px #666;
@@ -48,3 +48,5 @@ body
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }*/
+
+  /*#button1:hover,#button2:hover {background-color:thistle}*/
